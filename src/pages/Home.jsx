@@ -1,5 +1,8 @@
 import Veggie from '../components/Veggie';
 import Popular from '../components/Popular';
+import styled from 'styled-components';
+import Category from '../components/Category';
+
 
 
 function Home() {
@@ -10,5 +13,7 @@ function Home() {
     </div>
   )
 }
+
+
 
 export default Home
